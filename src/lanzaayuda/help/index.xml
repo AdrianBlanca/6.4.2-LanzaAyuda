@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+ <!DOCTYPE index PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 2.0//EN"
+"http://java.sun.com/products/javahelp/index_2_0.dtd">
+<index version="2.0">
+    <indexitem text="Inicio" target="inicio"/>
+    <indexitem image="carpeta" text="General">
+        <indexitem image="fichero" text="Acerca de" target="acerca_de"/>
+        <indexitem image="fichero" text="Ayuda" target="ayuda"/>
+        <indexitem image="fichero" text="Login" target="login"/>
+    </indexitem>
+    <indexitem text="Vistas">
+        <indexitem image="fichero" text="Alumnos" target="alumnos"/>
+        <indexitem image="fichero" text="Cursos" target="cursos"/>
+        <indexitem image="fichero" text="Informes" target="informes"/>
+        <indexitem image="fichero" text="Matriculas" target="matricula"/>
+        <indexitem image="fichero" text="Menu principal" target="interfaz_submenus"/>
+    </indexitem>
+</index>

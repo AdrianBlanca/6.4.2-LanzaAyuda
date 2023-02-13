@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE toc PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 2.0//EN"
+"http://java.sun.com/products/javahelp/toc_2_0.dtd">
+<toc version="2.0">
+    <tocitem image="fichero" text="Inicio" target="inicio"/>
+    <tocitem image="carpeta" text="Vistas">
+        <tocitem image="fichero" text="Menu principal" target="interfaz_submenus"/>
+        <tocitem image="fichero" text="Matriculas" target="matricula"/>
+        <tocitem image="fichero" text="Cursos" target="cursos"/>
+        <tocitem image="fichero" text="Alumnos" target="alumnos"/>
+        <tocitem image="fichero" text="Informes" target="informes"/>
+    </tocitem>
+    <tocitem image="carpeta" text="General">
+        <tocitem image="fichero" text="Acerca de" target="acerca_de"/>
+        <tocitem image="fichero" text="Ayuda" target="ayuda"/>
+        <tocitem image="fichero" text="Login" target="login"/>
+    </tocitem>
+</toc>
